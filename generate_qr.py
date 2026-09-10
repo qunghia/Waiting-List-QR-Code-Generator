@@ -5,7 +5,7 @@ output_folder = "QR_Codes"
 
 os.makedirs(output_folder, exist_ok=True)
 
-base_url = "https://qunghia.github.io/Waiting-List/"
+base_url = "https://qunghia.github.io/Waiting-List-QR-Code-Generator/"
 
 for number in range(1, 501):
 
